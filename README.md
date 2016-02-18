@@ -1,5 +1,7 @@
 Jubilee is an Arduino powered LED Hula Hoop
 
+I forked this to change it to suit an LED Staff, not currently implemented.
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/philihp/Jubilee?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This source code controls it. Components are as follows:
